@@ -1,4 +1,10 @@
  <h1 align="center">Hi 👋, I'm Muhammad Najmul Islam</h1>
+ <h3 align="center">A passionate app developer from Bangladesh</h3>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=miner1033&label=Profile%20views&color=0e75b6&style=flat" alt="miner1033" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najmul19" alt="najmul19" /></a> </p>
+
 
 - 🔭 I’m currently working on Flutter, Java(Android)
 - 🌱 I’m currently learning Flutter

@@ -15,6 +15,8 @@
   
 ### Connect with me:
 <div id="badges">
+ <a href="https://www.linkedin.com/in/najmul-islam-80b158263/" target="blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://github.com/najmul19">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   
@@ -34,6 +36,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najmul19&theme=dark)
 
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najmul19&" alt="najmul19" /></p>
 
 <br>
 ⭐️ From [najmul19](https://github.com/najmul9)

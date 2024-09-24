@@ -22,7 +22,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,cpp,java&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart,html,matlab,firebase,github,git,cpp,c,java&perline=5)](https://skillicons.dev)
 
 ![Muhammad Najmul Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=najmul19&show_icons=true&theme=dark)
 

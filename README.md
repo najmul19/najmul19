@@ -6,10 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najmul19" alt="najmul19" /></a> </p>
 
 
-- 🔭 I’m currently working on Flutter, Java(Android)
+- 🔭 I’m currently working on WEB, Flutter
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on 3rd year project
-- 💬 Ask me anything about Flutter , Java, C++, Python,
+- 👯 I’m looking to .....
+- 💬 Ask me anything about MERN, Flutter , Java, C++, Python
 - 📫 How to reach me: mdnajmulislam10992@gmail.com
 - 😄 My codeforces: https://codeforces.com/profile/.019
   
